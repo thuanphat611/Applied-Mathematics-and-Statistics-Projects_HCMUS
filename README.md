@@ -21,7 +21,7 @@ Complete the following requirements:
 
 ![img](https://imgur.com/XEfRXWE.jpg)
 
--Sepia:
+- Sepia:
 
 ![img](https://imgur.com/YXUPjHY.jpg)
 
