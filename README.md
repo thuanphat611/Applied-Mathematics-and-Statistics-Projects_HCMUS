@@ -49,6 +49,7 @@ The goal of the project is to understand the factors that determine the salaries
 In this project, the above data has been performed the following pre-processing steps: 
 1. Remove columns whose values are strings: 'DOB', '10board', '12board', 'Specialization', 'CollegeState' 
 2. Remove columns related to identifiers and years: 'ID', 'CollegeID', 'CollegeCityID', '12graduation', 'GraduationYear'\
+
 Provided 2 files:
 - 'train.csv': Contains 2248 samples used for model training 
 - 'test.csv': Contains 750 samples used to test models
