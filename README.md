@@ -48,8 +48,8 @@ Complete the following requirements:
 The goal of the project is to understand the factors that determine the salaries and employment of engineers immediately after graduation. Factors such as grades at different levels/universities, candidates' skills, links between universities and industrial parks/technology companies, student qualifications and market conditions for specific industries will affect this. The dataset used in this project was collected in India and has been pre-processed.\
 In this project, the above data has been performed the following pre-processing steps: 
 1. Remove columns whose values are strings: 'DOB', '10board', '12board', 'Specialization', 'CollegeState' 
-2. Remove columns related to identifiers and years: 'ID', 'CollegeID', 'CollegeCityID', '12graduation', 'GraduationYear'
+2. Remove columns related to identifiers and years: 'ID', 'CollegeID', 'CollegeCityID', '12graduation', 'GraduationYear'\
 Provided 2 files:
 - 'train.csv': Contains 2248 samples used for model training 
 - 'test.csv': Contains 750 samples used to test models
-Read more about the data at: [Engineering Graduate Salary](https://www.kaggle.com/datasets/manishkc06/engineering-graduate-salary-prediction).\
+Read more about the data at: [Engineering Graduate Salary](https://www.kaggle.com/datasets/manishkc06/engineering-graduate-salary-prediction).
