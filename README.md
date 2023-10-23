@@ -52,5 +52,6 @@ In this project, the above data has been performed the following pre-processing 
 
 Provided 2 files:
 - 'train.csv': Contains 2248 samples used for model training 
-- 'test.csv': Contains 750 samples used to test models
+- 'test.csv': Contains 750 samples used to test models\
+
 Read more about the data at: [Engineering Graduate Salary](https://www.kaggle.com/datasets/manishkc06/engineering-graduate-salary-prediction).
